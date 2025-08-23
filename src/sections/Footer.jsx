@@ -65,14 +65,14 @@ const Footer = () => {
           {/* Get in Touch */}
           <div>
             <h3 className="text-2xl font-bold text-white mb-4">Get in Touch</h3>
-            <p>+(1) 888-291-3869</p>
-            <p>89 Woodland Center, USA</p>
+            <p>+(1) 808-468-1018</p>
+            <p>Los Angeles, California United States</p>
             <p>
               <a
                 href="mailto:support@microsonicrepair.com"
                 className="hover:text-teal-200"
               >
-                support@microsonicrepair.com
+                support@eztechprintersolutions.com
               </a>
             </p>
           </div>

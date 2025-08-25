@@ -99,6 +99,7 @@ import {
   Scanner, InstallDesktop, Troubleshoot,
   ConnectWithoutContact, DesignServices
 } from '@mui/icons-material';
+import JivoChat from '../../JivoChat';
 
 const Services = () => {
   const [activeService, setActiveService] = useState('installation');
@@ -140,6 +141,8 @@ const Services = () => {
   }, [currentText, isDeleting, currentTextIndex, texts, typingSpeed]);
 
   return (
+    <>
+   
     <div className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100">
       {/* Hero Section with Typing Animation */}
       <header className="relative bg-gradient-to-r from-teal-700 to-teal-800 text-white pt-32 pb-28 overflow-hidden">
@@ -479,6 +482,8 @@ const Services = () => {
         }
       `}</style>
     </div>
+    <JivoChat/>
+     </>
   );
 };
 

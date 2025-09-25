@@ -145,7 +145,7 @@ const About = () => {
               Our Mission
             </h2>
             <p className="text-lg text-gray-700">
-              Our mission is to provide sustainable and cost-effective printing solutions for homes and businesses. By giving printers a second life through new printers, we reduce electronic waste and promote environmentally conscious practices — helping our customers and the planet at the same time.
+              Our mission is to provide sustainable and cost-effective printing solutions for homes and businesses. We reduce electronic waste and promote environmentally conscious practices — helping our customers and the planet at the same time.
             </p>
           </div>
         </section>

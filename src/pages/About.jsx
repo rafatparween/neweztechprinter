@@ -94,7 +94,7 @@ const About = () => {
         <div className="container mx-auto px-4 relative z-10 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Welcome to EzTech-Printer-Solutions</h1>
           <p className="text-xl max-w-3xl mx-auto">
-            At EzTech-Printer-Solutions, we specialize in refurbished printers that meet the highest standards of quality and performance.
+            At EzTech-Printer-Solutions, we specialize in new printers that meet the highest standards of quality and performance.
           </p>
         </div>
       </header>
@@ -122,7 +122,7 @@ const About = () => {
                 Who We Are
               </h2>
               <p className="text-lg text-gray-700">
-                We are an independent IT solutions and printer services provider committed to making technology simple and affordable. By offering certified refurbished printers and professional setup assistance, we help individuals and businesses save money while reducing e-waste.
+                We are an independent IT solutions and printer services provider committed to making technology simple and affordable. By offering certified new printers and professional setup assistance, we help individuals and businesses save money while reducing e-waste.
               </p>
             </div>
             <div className="flex-1">
@@ -161,7 +161,7 @@ const About = () => {
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
                 </svg>
               </div>
-              <h3 className="text-xl font-semibold text-gray-800 mb-3">High-Quality Refurbished Printers</h3>
+              <h3 className="text-xl font-semibold text-gray-800 mb-3">High-Quality new Printers</h3>
               <p className="text-gray-600">Each printer undergoes rigorous testing and certification for dependable performance.</p>
             </div>
             
@@ -182,7 +182,7 @@ const About = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-800 mb-3">Eco-Friendly Options</h3>
-              <p className="text-gray-600">Reduce electronic waste by choosing refurbished products.</p>
+              <p className="text-gray-600">Reduce electronic waste by choosing new products.</p>
             </div>
             
             <div className="bg-white rounded-2xl p-6 shadow-md border border-gray-100 transform hover:-translate-y-1 duration-300">
@@ -192,7 +192,7 @@ const About = () => {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-800 mb-3">Warranty Coverage</h3>
-              <p className="text-gray-600">All refurbished printers include warranty protection for peace of mind.</p>
+              <p className="text-gray-600">All new printers include warranty protection for peace of mind.</p>
             </div>
             
             <div className="bg-white rounded-2xl p-6 shadow-md border border-gray-100 transform hover:-translate-y-1 duration-300">
@@ -212,7 +212,7 @@ const About = () => {
           <div className="bg-gray-50 rounded-2xl p-8 md:p-12">
             <h2 className="text-3xl font-bold text-gray-800 mb-6">Our Quality Commitment</h2>
             <p className="text-lg text-gray-700 mb-8">
-              We stand behind the quality of every refurbished printer we sell. Our goal is to provide customers with products that are not only cost-effective but also reliable and backed by confidence.
+              We stand behind the quality of every new printer we sell. Our goal is to provide customers with products that are not only cost-effective but also reliable and backed by confidence.
             </p>
             
             <div className="bg-white rounded-2xl p-6 shadow-sm">
@@ -227,7 +227,7 @@ const About = () => {
                   <div className="bg-teal-100 w-6 h-6 rounded-full flex items-center justify-center mr-3 mt-1 flex-shrink-0">
                     <span className="text-teal-600 text-sm font-bold">•</span>
                   </div>
-                  <span className="text-gray-700">All refurbished printers come with a 6-month limited warranty covering defects in materials and workmanship under normal use.</span>
+                  <span className="text-gray-700">All new printers come with a 6-month limited warranty covering defects in materials and workmanship under normal use.</span>
                 </li>
                 <li className="flex items-start">
                   <div className="bg-teal-100 w-6 h-6 rounded-full flex items-center justify-center mr-3 mt-1 flex-shrink-0">
@@ -261,7 +261,7 @@ const About = () => {
                 <div className="bg-teal-100 w-6 h-6 rounded-full flex items-center justify-center mr-3 mt-1 flex-shrink-0">
                   <span className="text-teal-600 text-sm font-bold">•</span>
                 </div>
-                <span className="text-gray-700">We offer a 7-day return policy for all refurbished printers purchased directly from us, provided the product is returned in its original condition.</span>
+                <span className="text-gray-700">We offer a 7-day return policy for all new printers purchased directly from us, provided the product is returned in its original condition.</span>
               </li>
               <li className="flex items-start">
                 <div className="bg-teal-100 w-6 h-6 rounded-full flex items-center justify-center mr-3 mt-1 flex-shrink-0">

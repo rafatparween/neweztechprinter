@@ -157,7 +157,7 @@ const Services = () => {
         </div>
         
         <div className="container mx-auto px-4 relative z-10 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Get Reliable Printer Support Anytime</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-6">Get Reliable Printer Support </h1>
           <div className="text-xl md:text-2xl h-10 mb-8">
             <span className="typed-text">{currentText}</span>
             <span className="cursor">|</span>

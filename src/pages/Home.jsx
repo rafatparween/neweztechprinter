@@ -18,14 +18,14 @@ const Home = () => {
               </h1>
               <p className="text-gray-700 text-lg mb-4">
                 Welcome to our independent third-party company specializing in
-                refurbished printers. We offer high-quality printers that have
+               new printers. We offer high-quality printers that have
                 been meticulously restored to perform like new.
               </p>
               <p className="text-gray-700 text-lg mb-4">
                 Whether you need a laser printer, inkjet printer, or
                 multifunction printer, we have a wide selection to meet your
                 needs. Browse our catalog and find the perfect printer for your
-                home or office. Each refurbished printer undergoes rigorous
+                home or office. Each new printer undergoes rigorous
                 testing to ensure reliability and performance, backed by our
                 warranty for peace of mind.
               </p>
@@ -33,7 +33,7 @@ const Home = () => {
             <div className="md:w-1/2 p-4 flex items-center justify-center">
               <img
                 src="https://img.freepik.com/premium-photo/close-up-office-table-with-printer-it_93675-81686.jpg?w=826"
-                alt="Refurbished Printer"
+                alt="new Printer"
                 className="rounded-lg shadow-xl h-full object-cover"
               />
             </div>

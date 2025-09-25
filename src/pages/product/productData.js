@@ -1,7 +1,7 @@
 export const printerProducts = [
   {
     id: 1,
-    name: '(Refurbished) Canon ImageClass MF3010 Color Multi-Function Laserjet Printer',
+    name: '(new) Canon ImageClass MF3010 Color Multi-Function Laserjet Printer',
     price: '$208.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying',
@@ -17,7 +17,7 @@ export const printerProducts = [
   },
   {
     id: 2,
-    name: '(Refurbished) HP LaserJet Pro MFP M127fn Monochrome Printer',
+    name: '(new) HP LaserJet Pro MFP M127fn Monochrome Printer',
     price: '$189.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -33,7 +33,7 @@ export const printerProducts = [
   },
   {
     id: 3,
-    name: '(Refurbished) Brother DCP-L2540DW Wireless Monochrome Printer',
+    name: '(new) Brother DCP-L2540DW Wireless Monochrome Printer',
     price: '$199.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying',
@@ -49,7 +49,7 @@ export const printerProducts = [
   },
   {
     id: 4,
-    name: '(Refurbished) Epson EcoTank L3150 Wi-Fi All-in-One Ink Tank Printer',
+    name: '(new) Epson EcoTank L3150 Wi-Fi All-in-One Ink Tank Printer',
     price: '$249.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying',
@@ -65,7 +65,7 @@ export const printerProducts = [
   },
   {
     id: 5,
-    name: '(Refurbished) Samsung Xpress M2070FW Wireless Monochrome Laser Printer',
+    name: '(new) Samsung Xpress M2070FW Wireless Monochrome Laser Printer',
     price: '$179.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -81,7 +81,7 @@ export const printerProducts = [
   },
   {
     id: 6,
-    name: '(Refurbished) Lexmark MB2236adw Monochrome Multifunction Laser Printer',
+    name: '(new) Lexmark MB2236adw Monochrome Multifunction Laser Printer',
     price: '$269.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -96,7 +96,7 @@ export const printerProducts = [
   },
   {
     id: 7,
-    name: '(Refurbished) Xerox WorkCentre 6515/DNI Color Multifunction Printer',
+    name: '(new) Xerox WorkCentre 6515/DNI Color Multifunction Printer',
     price: '$349.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -112,7 +112,7 @@ export const printerProducts = [
   },
   {
     id: 8,
-    name: '(Refurbished) Dell E525w Color Laser All-in-One Wireless Printer',
+    name: '(new) Dell E525w Color Laser All-in-One Wireless Printer',
     price: '$229.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -128,7 +128,7 @@ export const printerProducts = [
   },
   {
     id: 9,
-    name: '(Refurbished) Kyocera ECOSYS M5526cdw Color Multifunction Printer',
+    name: '(new) Kyocera ECOSYS M5526cdw Color Multifunction Printer',
     price: '$399.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -144,7 +144,7 @@ export const printerProducts = [
   },
   {
     id: 10,
-    name: '(Refurbished) Panasonic KX-MB1530 Monochrome Multifunction Printer',
+    name: '(new) Panasonic KX-MB1530 Monochrome Multifunction Printer',
     price: '$149.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying',
@@ -160,7 +160,7 @@ export const printerProducts = [
   },
   {
     id: 11,
-    name: '(Refurbished) Ricoh SP C250SF Color Multifunction Printer',
+    name: '(new) Ricoh SP C250SF Color Multifunction Printer',
     price: '$319.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',
@@ -175,7 +175,7 @@ export const printerProducts = [
   },
   {
     id: 12,
-    name: '(Refurbished) Sharp MX-C304W Compact Color Multifunction Printer',
+    name: '(new) Sharp MX-C304W Compact Color Multifunction Printer',
     price: '$499.00',
     keyFeatures: [
       'Functions: Printing, Scanning, Copying, Faxing',

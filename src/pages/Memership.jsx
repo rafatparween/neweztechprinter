@@ -237,7 +237,7 @@ const premiumFeatures = [
   'Priority phone & online support',
   'Device setup & optimization assistance',
   'Data transfer guidance',
-  'Extended warranty coverage for refurbished printers',
+  'Extended warranty coverage for new printers',
 ];
 
 export default function Membership() {
@@ -343,7 +343,7 @@ export default function Membership() {
                     Select Standard Plan
                   </button>
                   <p className="mt-3 text-xs leading-5 text-gray-600">
-                    No hidden fees · Cancel anytime
+                    No hidden fees · Cancel 
                   </p>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function Membership() {
                     Select Premium Plan
                   </button>
                   <p className="mt-3 text-xs leading-5 text-teal-200">
-                    No hidden fees · Cancel anytime
+                    No hidden fees · Cancel 
                   </p>
                 </div>
               </div>
@@ -428,7 +428,7 @@ export default function Membership() {
                   </svg>
                 </div>
                 <h4 className="mt-4 font-semibold text-gray-900">Easy Cancellation</h4>
-                <p className="mt-2 text-sm text-gray-600">Cancel your plan anytime without hassle</p>
+                <p className="mt-2 text-sm text-gray-600">Cancel your plan without hassle</p>
               </div>
               <div className="p-4">
                 <div className="mx-auto h-12 w-12 flex items-center justify-center rounded-full bg-teal-100">
